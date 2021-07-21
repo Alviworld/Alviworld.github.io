@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Álvaro Fernández Meneses on Álvaro Fernández - Taller Fabricación 2021</title>
+    <link>https://alviworld.github.io/taller-fabricacion/</link>
+    <description>Recent content in Álvaro Fernández Meneses on Álvaro Fernández - Taller Fabricación 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://alviworld.github.io/taller-fabricacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Zero</title>
+      <link>https://alviworld.github.io/taller-fabricacion/docs/postzero/</link>
+      <pubDate>Wed, 31 Dec 1969 21:33:41 -0300</pubDate>
+      
+      <guid>https://alviworld.github.io/taller-fabricacion/docs/postzero/</guid>
+      <description>Idea de limpieza y manufactura de un producto a partir de desperdicios orgánicos.</description>
+    </item>
+    
+    <item>
+      <title>Planimetría</title>
+      <link>https://alviworld.github.io/taller-fabricacion/docs/postunoplanimetria/</link>
+      <pubDate>Wed, 31 Dec 1969 21:33:41 -0300</pubDate>
+      
+      <guid>https://alviworld.github.io/taller-fabricacion/docs/postunoplanimetria/</guid>
+      <description>Experimentación con diferentes estilos para planimetrías</description>
+    </item>
+    
+    <item>
+      <title>CmC grupo</title>
+      <link>https://alviworld.github.io/taller-fabricacion/docs/cmcgrupal/</link>
+      <pubDate>Wed, 31 Dec 1969 21:33:41 -0300</pubDate>
+      
+      <guid>https://alviworld.github.io/taller-fabricacion/docs/cmcgrupal/</guid>
+      <description>Tutorial Mecanizado para Silla Fresia.</description>
+    </item>
+    
+    <item>
+      <title>Salvar recursos hidricos</title>
+      <link>https://alviworld.github.io/taller-fabricacion/docs/tallerespacioyciudad/</link>
+      <pubDate>Wed, 31 Dec 1969 21:33:41 -0300</pubDate>
+      
+      <guid>https://alviworld.github.io/taller-fabricacion/docs/tallerespacioyciudad/</guid>
+      <description>Idea construcción islas artificiales flotantes en lagos con el fin de balancear lagos y rios.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://alviworld.github.io/taller-fabricacion/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://alviworld.github.io/taller-fabricacion/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://alviworld.github.io/taller-fabricacion/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://alviworld.github.io/taller-fabricacion/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+  </channel>
+</rss>
