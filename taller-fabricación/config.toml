@@ -1,0 +1,44 @@
+baseURL = "https://alviworld.github.io/" # MI DIRECCIÓN DE SITIO GITHUB.IO
+languageCode = "en-us"
+title = "Álvaro Fernández - Taller Fabricación 2021"
+themesDir = "./themes"
+theme = "template-tallerfabricacion2021"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+summaryLength = 30
+
+[[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Dococumentación"
+    url = "/docs/"
+    weight = 2
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/docs'
+  homepage_button_text = 'Ir a Documentación'
+  homepage_intro = 'Repositorio Taller Fabricación Universidad Adolfo Ibáñez 2021'
+  homepage_image = '/images/bg-home.jpeg'
+
+
+  [params.homepage_meta_tags]
+    meta_description = "Repositorio Taller Fabricación Universidad Adolfo Ibáñez 2021"
+    meta_og_title = "Álvaro Fernández Meneses"
+    meta_og_type = "website"
+    meta_og_url = ""
+    meta_og_image = ""
+    meta_og_description = "Repositorio Taller Fabricación Universidad Adolfo Ibáñez 2021"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@lab_uai"
+    meta_twitter_creator = "@lab_uai"
+
+  [params.logo]
+      mobile = "/images/logo-uai.png"
+      standard  = "/images/logo-uai.png"
