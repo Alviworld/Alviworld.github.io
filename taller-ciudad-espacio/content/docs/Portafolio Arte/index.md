@@ -1,15 +1,38 @@
 ---
-title: 'Portafolio Arte'
-date: 2023
+title: '4to Post; Animación'
+date: 2021
 draft: false
-weight: 12
-summary: Pdf con Arte.
+weight: 4
+summary: Cuarto encargo.
 ---
 
-## Portafolio
+## Mapeo de la zona
 
-¡Hola! Bienvenido a mi portafolio. Aquí encontrarás una muestra de mis proyectos y trabajos más recientes.
+![blu](/taller-ciudad-espacio/img/Post4/1.png)
 
 
-{{< pdf-viewer id="pdf-hugo" link="/taller-ciudad-espacio/pdf/PortArte.pdf"  >}}
+Como podemos ver en el mapa, la laguna Tranque de la Luz tiene una forma de "t".
+
+
+![blu](/taller-ciudad-espacio/img/Post4/2.png)
+
+Cuenta con una pequeña isla natural en la parte más alta. Esta isla sería aprovechada por las islas flotantes para hacer un puente, que permita el paso por abajo de pequeñas embarcaciones, entre las dos orillas.
+
+
+![blu](/taller-ciudad-espacio/img/Post4/3.jpg)
+
+Vista superior.
+
+
+
+![blu](/taller-ciudad-espacio/img/Post4/4.png)
+
+
+
+{{< video-local src="Vid1.mp4" >}}
+
+
+Mapa de la zona modelado en Rhinoceros, tipo de archivo OBJ, convertido a 3dm para su descarga.
+
+{{< boton-descargar src="mapacurauma.3dm" >}}
 
