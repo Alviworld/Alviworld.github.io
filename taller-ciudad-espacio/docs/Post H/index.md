@@ -9,11 +9,3 @@ summary: Molde y Experimentación
 
 hacer adobe con un horno y forrarlo con una capa de cactus. 
 
-https://macagatica99.github.io/docs/exfab1/
-
-https://macagatica99.github.io/docs/exfab2/
-
-https://macagatica99.github.io/docs/examfab/
-
-
-{{< gallery dir="img/cactus/gal3w" />}} {{< load-photoswipe >}}
