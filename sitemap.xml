@@ -2,41 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alviworld.github.io/docs/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url><url>
-    <loc>https://alviworld.github.io/docs/linkataller/</loc>
+    <loc>/docs/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>https://alviworld.github.io/docs/torpedo/</loc>
+    <loc>/docs/link-taller/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>https://alviworld.github.io/docs/thingieverse/</loc>
+    <loc>/docs/thingieverse/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>https://alviworld.github.io/docs/post1/</loc>
+    <loc>/docs/hmv/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>https://alviworld.github.io/docs/post2/</loc>
+    <loc>/docs/lombricez-y-chanchitos/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>https://alviworld.github.io/docs/post3/</loc>
+    <loc>/docs/uso-en-crisis/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>https://alviworld.github.io/docs/post4/</loc>
+    <loc>/docs/semillas/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>https://alviworld.github.io/docs/post5/</loc>
+    <loc>/docs/arte/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>https://alviworld.github.io/docs/post6/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>https://alviworld.github.io/</loc>
-    <lastmod>2020-06-17T19:30:08+10:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://alviworld.github.io/categories/</loc>
-  </url><url>
-    <loc>https://alviworld.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
