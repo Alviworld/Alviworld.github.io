@@ -1,73 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome a Alviworld on Nombre Apellido - Taller Fabricación 2021</title>
-    <link>/docs/</link>
-    <description>Recent content in Welcome a Alviworld on Nombre Apellido - Taller Fabricación 2021</description>
+    <title>Welcome a Alviworld on Álvaro Fernández Meneses - Telaraña web</title>
+    <link>https://alviworld.github.io/docs/</link>
+    <description>Recent content in Welcome a Alviworld on Álvaro Fernández Meneses - Telaraña web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://alviworld.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Link Tareas y Trabajos</title>
-      <link>/docs/link-taller/</link>
+      <link>https://alviworld.github.io/docs/link-taller/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/link-taller/</guid>
+      <guid>https://alviworld.github.io/docs/link-taller/</guid>
       <description>Sitio web dentro de alviworld donde guardé algunas tareas y trabajos.</description>
     </item>
     
     <item>
-      <title>Thingiverse</title>
-      <link>/docs/thingieverse/</link>
+      <title>Cheatsheet</title>
+      <link>https://alviworld.github.io/docs/build-order/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/thingieverse/</guid>
+      <guid>https://alviworld.github.io/docs/build-order/</guid>
+      <description>build orders .</description>
+    </item>
+    
+    <item>
+      <title>Thingiverse</title>
+      <link>https://alviworld.github.io/docs/thingieverse/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://alviworld.github.io/docs/thingieverse/</guid>
       <description>Plataforma de diseños.</description>
     </item>
     
     <item>
       <title>Huerto Mínimo Viable (HMV)</title>
-      <link>/docs/hmv/</link>
+      <link>https://alviworld.github.io/docs/hmv/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/hmv/</guid>
+      <guid>https://alviworld.github.io/docs/hmv/</guid>
       <description>Huerto como recurso de apoyo a la economía.</description>
     </item>
     
     <item>
       <title>Lombrices y Chanchitos de Tierra</title>
-      <link>/docs/lombricez-y-chanchitos/</link>
+      <link>https://alviworld.github.io/docs/insectos/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/lombricez-y-chanchitos/</guid>
+      <guid>https://alviworld.github.io/docs/insectos/</guid>
+      <description>Dos insectos clave en la alimentación.</description>
+    </item>
+    
+    <item>
+      <title>Lombrices y Chanchitos de Tierra</title>
+      <link>https://alviworld.github.io/docs/lombricez-y-chanchitos/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://alviworld.github.io/docs/lombricez-y-chanchitos/</guid>
       <description>Dos insectos clave en la alimentación.</description>
     </item>
     
     <item>
       <title>Usos distintas crisis</title>
-      <link>/docs/uso-en-crisis/</link>
+      <link>https://alviworld.github.io/docs/uso-en-crisis/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/uso-en-crisis/</guid>
+      <guid>https://alviworld.github.io/docs/uso-en-crisis/</guid>
       <description>Uso de un HMV para solucionar distintos problemas.</description>
     </item>
     
     <item>
-      <title>Semillas</title>
-      <link>/docs/semillas/</link>
+      <title>Eco-Coin</title>
+      <link>https://alviworld.github.io/docs/eco-coin/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/semillas/</guid>
+      <guid>https://alviworld.github.io/docs/eco-coin/</guid>
+      <description>idea de un dinero del futuro que haría a los chilenos potencia mundial.</description>
+    </item>
+    
+    <item>
+      <title>Semillas</title>
+      <link>https://alviworld.github.io/docs/semillas/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://alviworld.github.io/docs/semillas/</guid>
       <description>Banco de Semillas.</description>
     </item>
     
     <item>
-      <title>cositas bonitas</title>
-      <link>/docs/arte/</link>
+      <title>Portafolio de Arte</title>
+      <link>https://alviworld.github.io/docs/arte/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/arte/</guid>
-      <description>lista de post por hacer</description>
+      <guid>https://alviworld.github.io/docs/arte/</guid>
+      <description>Mi portafolio estándar de arte.</description>
     </item>
     
   </channel>

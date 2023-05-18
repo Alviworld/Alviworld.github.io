@@ -2,35 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/</loc>
+    <loc>https://alviworld.github.io/docs/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>https://alviworld.github.io/docs/link-taller/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/link-taller/</loc>
+    <loc>https://alviworld.github.io/docs/build-order/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/thingieverse/</loc>
+    <loc>https://alviworld.github.io/docs/thingieverse/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/hmv/</loc>
+    <loc>https://alviworld.github.io/docs/hmv/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/lombricez-y-chanchitos/</loc>
+    <loc>https://alviworld.github.io/docs/insectos/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/uso-en-crisis/</loc>
+    <loc>https://alviworld.github.io/docs/lombricez-y-chanchitos/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/semillas/</loc>
+    <loc>https://alviworld.github.io/docs/uso-en-crisis/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/docs/arte/</loc>
+    <loc>https://alviworld.github.io/docs/eco-coin/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://alviworld.github.io/docs/semillas/</loc>
     <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://alviworld.github.io/docs/arte/</loc>
+    <lastmod>2020-06-17T19:30:08+10:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://alviworld.github.io/</loc>
+    <lastmod>2023-05-17T19:10:24+00:00</lastmod>
+  </url><url>
+    <loc>https://alviworld.github.io/categories/</loc>
+  </url><url>
+    <loc>https://alviworld.github.io/tags/</loc>
   </url>
 </urlset>
