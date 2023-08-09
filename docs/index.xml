@@ -97,5 +97,23 @@
       <description>Mi portafolio estándar de arte.</description>
     </item>
     
+    <item>
+      <title>Redefiniendo el Arte Urbano</title>
+      <link>https://alviworld.github.io/docs/stencil-iquique/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://alviworld.github.io/docs/stencil-iquique/</guid>
+      <description>Stencil Graffiti, Metajuego y la Armonía del Skate y el Ballet</description>
+    </item>
+    
+    <item>
+      <title>Stencil aplicado al Arte del Wallmount</title>
+      <link>https://alviworld.github.io/docs/tutorial-wallmount/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alviworld.github.io/docs/tutorial-wallmount/</guid>
+      <description>El Arte Transformador del Stencil Graffiti; Un Viaje Personal a Través del Tiempo y la Creatividad</description>
+    </item>
+    
   </channel>
 </rss>
